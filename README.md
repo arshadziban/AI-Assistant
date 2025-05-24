@@ -1,4 +1,4 @@
-# 🤖 AI Assistant with Ollama 
+# 🤖 AI Assistant with Ollama
 
 *A conversational AI assistant powered by local LLMs (LLaMA, etc.) and a sleek Streamlit web interface.*
 
@@ -7,14 +7,18 @@
   <img src="assets/img2.png" alt="Model Switching" width="45%">
 </div>
 
-## ✨ Features  
+---
+
+## ✨ Features
 - 💬 Human-like Q&A using Ollama's local models (supports LLaMA, Mistral, etc.)  
 - 🖥️ Streamlit-based web UI for easy interaction  
-- ⚡ Test/switch models on the fly (see demo above →)  
+- ⚡ Test/switch models on the fly (see demo above ↑)  
 - 🧹 Chat history management  
 - 🔌 Simple API-like connection testing  
 
-## 🛠️ Tech Stack  
-- **Ollama** (for local model inference)  
-- **Streamlit** (frontend interface)  
-- **Python 3.10+**  
+---
+
+## 🛠️ Tech Stack
+- **Ollama** – for local model inference  
+- **Streamlit** – frontend interface  
+- **Python 3.10+** – backend language  
